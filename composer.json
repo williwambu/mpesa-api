@@ -1,0 +1,13 @@
+{
+    "require": {
+
+    },
+    "require-dev":{
+        "wsdl2phpgenerator/wsdl2phpgenerator": "^3.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "App": "Api"
+        }
+    }
+}
